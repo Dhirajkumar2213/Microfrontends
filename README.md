@@ -32,11 +32,11 @@ npm run dev
 Start the Chat App
 
 cd chat-app
-npm run dev
+npm run watch
 Start the Email App
 
 cd email-app
-npm run dev
+npm run watch
 
 ## How It Works
 
